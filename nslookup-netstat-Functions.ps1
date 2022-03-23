@@ -9,8 +9,6 @@
 # You can sort by the amount of concurrent column both to see highest amount but also see the busiest time of day.
 
 # TODO:
-# - Turn this into a function [W.I.P (1.1)]
-# - Create a wrapper script which gets both these two parameters but also how frequently and for how long to run this test.
 # - Create seperate script to work by list of IP addresses, have option to choose between dns name or ip addresses list in the wrapper.
 
 
