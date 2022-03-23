@@ -1,10 +1,22 @@
 # Check-Concurrent-Connections
 Check https concurrent connections to a specific domain name
+.
 
+.
 
+.
 
+.
 
+.
 
+.
+
+.
+
+.
+
+.
 
 
 If you would like to use the function outside the script directly from the terminal window:
