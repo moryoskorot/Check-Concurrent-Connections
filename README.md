@@ -1,6 +1,15 @@
 # Check-Concurrent-Connections
 Check https concurrent connections to a specific domain name
 
+
+
+
+
+
+
+If you would like to use the function outside the script directly from the terminal window:
+
+
 From the 2nd answer here by JoeG
 https://stackoverflow.com/questions/6016436/in-powershell-how-do-i-define-a-function-in-a-file-and-call-it-from-the-powersh
 
