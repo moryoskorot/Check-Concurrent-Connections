@@ -48,7 +48,7 @@ function Get-ConcurrentConnections-Loop{
     While([datetime](Get-Date) -lt $finish_time)
     {
         # Get current connections and put them them in a file using our function
-        Get-ConcurrentConnections -TargetDomain domain.com -LogfilePath logfile.csv 
+        Get-ConcurrentConnections -TargetDomain $TargetDomain -LogfilePath $LogfilePath 
         # Wait for the set amount of time
         Start-Sleep -Seconds $IntervalInSeconds
 
